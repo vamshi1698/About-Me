@@ -1,5 +1,18 @@
-# 💫 About Me:
-I am Vamsi, a second-year BCA student at National College Jayanagar (Autonomous). With a solid foundation in HTML, CSS, and JavaScript, I am passionate about web development and eager to expand my skills in this dynamic field. I am currently exploring various aspects of web design and development, and I am enthusiastic about learning new technologies and best practices. My goal is to build responsive, user-friendly websites that offer a seamless experience. I am always open to new opportunities and connections in the tech community.
+<!-- Animated Typing -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&lines=Hi%2C+I'm+Vamsi+%F0%9F%91%8B;Backend+Developer;Full-Stack+Developer;BCA+Student+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
+
+---
+
+### 🚀 About Me  
+- 🎓 **BCA Student** @ National College Jayanagar  
+- 💻 Strong in **Backend Development & Frontend Integration**  
+- 🛠 Skilled at **Node.js, Express.js, MongoDB, MySQL**  
+- ⚛️ Proficient in **React.js** for building interactive UIs  
+- 🌐 Knowledge of **REST APIs & Authentication**  
+- 🐍 Experienced in **Python Automation**  
+- 🔧 Comfortable with **Git, GitHub, and Deployment**  
+
+---
 
 
 ## 🌐 Socials:
