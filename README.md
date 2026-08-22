@@ -13,6 +13,15 @@ I’m a Computer Applications graduate focused on **backend and full-stack devel
 I’m currently looking for opportunities where I can contribute as a **Backend or Full-Stack Software Engineer** and continue growing as an engineer.
 
 ---
+## 🏆 Achievements
+
+* 🥇 **BLiTS 2025 Winner** — Bangalore Leadership Innovation Tech Summit, IISc Bangalore
+* 🥇 **1st Place — Code Debugging Challenge** at National College Jayanagar
+* 👨‍💻 **Technical Lead — Hackademia 2025**, National-level 24-hour hackathon
+* 🚀 Built and deployed real-world web applications used beyond personal projects
+
+---
+
 
 ## 🚀 About Me
 
@@ -25,15 +34,6 @@ I’m currently looking for opportunities where I can contribute as a **Backend 
 * 🧪 Interested in **performance, scalability and system design**
 * 🏆 Hackathon winner and technical competition winner
 * 🎯 Looking for **Backend / Full-Stack Software Engineering opportunities**
-
----
-
-## 🏆 Achievements
-
-* 🥇 **BLiTS 2025 Winner** — Bangalore Leadership Innovation Tech Summit, IISc Bangalore
-* 🥇 **1st Place — Code Debugging Challenge** at National College Jayanagar
-* 👨‍💻 **Technical Lead — Hackademia 2025**, National-level 24-hour hackathon
-* 🚀 Built and deployed real-world web applications used beyond personal projects
 
 ---
 
